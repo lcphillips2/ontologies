@@ -8,7 +8,7 @@ Strings are quoted with the ' " ' identifier
 A single root node was not specified
 Prefix: None
 Path format: Short </description>
-		<URL>http://i2b2.bioontology.org/download/19</URL>
+		<URL>https://github.com/lcphillips2/ontologies/blob/master/testDemo/ICD9CM_2014AA.zip</URL>
 		<file_name>dropins/ICD9CM_2014AA.zip</file_name>
 		<table_name>ICD9CM_2014AA</table_name>
 		<version>2014AA</version>
@@ -25,7 +25,7 @@ Strings are quoted with the ' " ' identifier
 A single root node name of ICD10CM_2015AA was specified
 Prefix: ICD10:
 Path format: Medium </description>
-		<URL>http://i2b2.bioontology.org/download/27</URL>
+		<URL>https://github.com/lcphillips2/ontologies/blob/master/testDemo/ICD10_2015AA.zip</URL>
 		<file_name>dropins/ICD10_2015AA.zip</file_name>
 		<table_name>ICD10CM_2015AA</table_name>
 		<version>2015AA</version>
@@ -40,7 +40,7 @@ Path format: Medium </description>
 File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier
 </description>
-		<URL></URL>
+		<URL>https://github.com/lcphillips2/ontologies/blob/master/testDemo/i2b2Lab_Med.zip</URL>
 		<file_name>dropins/i2b2Lab_Med.zip</file_name>
 		<table_name>I2B2</table_name>
 		<version>1.0</version>
