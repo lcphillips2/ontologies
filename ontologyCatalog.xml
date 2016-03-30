@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns7:ontology_catalog xmlns:ns7="http://www.i2b2.org/xsd/cell/ont/1.1/" >
 	<ontology>
-		<display_name>I2B2 demo metadata</display_name>
+		<display_name>I2B2 demo metadata for oracle</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2.zip</URL>
-		<file_name>dropins/I2B2.zip</file_name>
-		<table_name>I2B2</table_name>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2_ORACLE.zip</URL>
+		<file_name>dropins/I2B2_ORACLE.zip</file_name>
+		<table_name>I2B2_ORACLE</table_name>
 		<version>1.7</version>
 		<source>i2b2 Demo data</source>
 		<fileType>zip</fileType>
-		<file_creation_date>2016-03-28</file_creation_date>
+		<file_creation_date>2012-03-08</file_creation_date>
+		<contact>Lori Phillips (lcphillips@partners.org)</contact>
+	</ontology>
+	<ontology>
+		<display_name>I2B2 demo metadata for sqlserver</display_name>
+		<description>File is '|' delimited; first row specifies column headings
+Strings are quoted with the ' " ' identifier </description>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2_SQLSERVER.zip</URL>
+		<file_name>dropins/I2B2_SQLSERVER.zip</file_name>
+		<table_name>I2B2_SQLSERVER</table_name>
+		<version>1.7</version>
+		<source>i2b2 Demo data</source>
+		<fileType>zip</fileType>
+		<file_creation_date>2012-03-08</file_creation_date>
+		<contact>Lori Phillips (lcphillips@partners.org)</contact>
+	</ontology>
+		<ontology>
+		<display_name>I2B2 demo metadata for postgres</display_name>
+		<description>File is '|' delimited; first row specifies column headings
+Strings are quoted with the ' " ' identifier </description>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2_POSTGRES.zip</URL>
+		<file_name>dropins/I2B2_POSTGRES.zip</file_name>
+		<table_name>I2B2_POSTGRES</table_name>
+		<version>1.7</version>
+		<source>i2b2 Demo data</source>
+		<fileType>zip</fileType>
+		<file_creation_date>2012-03-08</file_creation_date>
 		<contact>Lori Phillips (lcphillips@partners.org)</contact>
 	</ontology>
 		<ontology>
@@ -23,7 +49,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<version>1.7</version>
 		<source>Partners</source>
 		<file_type>zip</file_type>
-		<file_creation_date>2016-03-28</file_creation_date>
+		<file_creation_date>2014-05-30</file_creation_date>
 		<contact>Lori Phillips (lcphillips@partners.org)</contact>
 	</ontology>
     <ontology>
@@ -36,7 +62,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<version>1.7</version>
 		<source>NCBO</source>
 		<file_type>zip</file_type>
-		<file_creation_date>2016-03-28</file_creation_date>
+		<file_creation_date>2014-10-13</file_creation_date>
 		<contact>Lori Phillips (lcphillips@partners.org)</contact>
 	</ontology>
 	<ontology>
@@ -79,7 +105,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<contact>Lori Phillips (lcphillips@partners.org)</contact>
 	</ontology>
 	<ontology>
-		<display_name>LOINC</display_name>
+		<display_name>LOINC (no metadataxml) </display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
 		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/LOINC_2014AB.zip</URL>
