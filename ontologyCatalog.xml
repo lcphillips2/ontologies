@@ -7,7 +7,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2.zip</URL>
 		<file_name>dropins/I2B2.zip</file_name>
 		<table_name>I2B2</table_name>
-		<version>1.7.08</version>
+		<version>1.7</version>
 		<source>i2b2 Demo data</source>
 		<fileType>zip</fileType>
 		<file_creation_date>2016-03-28</file_creation_date>
@@ -20,7 +20,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/ICD10_ICD9.zip</URL>
 		<file_name>dropins/ICD10_ICD9.zip</file_name>
 		<table_name>ICD10_ICD9</table_name>
-		<version>1.7.08</version>
+		<version>1.7</version>
 		<source>Partners</source>
 		<file_type>zip</file_type>
 		<file_creation_date>2016-03-28</file_creation_date>
@@ -31,12 +31,64 @@ Strings are quoted with the ' " ' identifier </description>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
 		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/SEQUENCE_ONTOLOGY.zip</URL>
-		<file_name>dropins/SUQUENCE_ONTOLOGY.zip</file_name>
+		<file_name>dropins/SEQUENCE_ONTOLOGY.zip</file_name>
 		<table_name>SEQUENCE_ONTOLOGY</table_name>
-		<version>1.7.08</version>
+		<version>1.7</version>
 		<source>NCBO</source>
 		<file_type>zip</file_type>
 		<file_creation_date>2016-03-28</file_creation_date>
+		<contact>Lori Phillips (lcphillips@partners.org)</contact>
+	</ontology>
+	<ontology>
+		<display_name>ICD9CM</display_name>
+		<description>File is '|' delimited; first row specifies column headings
+Strings are quoted with the ' " ' identifier </description>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/ICD9CM_2014AA.zip</URL>
+		<file_name>dropins/ICD9CM_2014AA.zip</file_name>
+		<table_name>ICD9CM_2014AA</table_name>
+		<version>2014AA</version>
+		<source>NCBO</source>
+		<fileType>zip</fileType>
+		<file_creation_date>2014-06-05</file_creation_date>
+		<contact>Lori Phillips (lcphillips@partners.org)</contact>
+	</ontology>
+		<ontology>
+		<display_name>ICD10CM</display_name>
+		<description>File is '|' delimited; first row specifies column headings
+Strings are quoted with the ' " ' identifier </description>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/ICD10CM_2015AA.zip</URL>
+		<file_name>dropins/ICD10CM_2015AA.zip</file_name>
+		<table_name>ICD10CM_2015AA</table_name>
+		<version>2015AA</version>
+		<source>NCBO</source>
+		<file_type>zip</file_type>
+		<file_creation_date>2015-10-13</file_creation_date>
+		<contact>Lori Phillips (lcphillips@partners.org)</contact>
+	</ontology>
+        <ontology>
+		<display_name>ICD10PCS</display_name>
+		<description>File is '|' delimited; first row specifies column headings
+Strings are quoted with the ' " ' identifier </description>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/ICD10PCS_2015AA.zip</URL>
+		<file_name>dropins/ICD10PCS_2015AA.zip</file_name>
+		<table_name>ICD10PCS_2015AA</table_name>
+		<version>2015AA</version>
+		<source>NCBO</source>
+		<file_type>zip</file_type>
+		<file_creation_date>2016-03-30</file_creation_date>
+		<contact>Lori Phillips (lcphillips@partners.org)</contact>
+	</ontology>
+	<ontology>
+		<display_name>LOINC</display_name>
+		<description>File is '|' delimited; first row specifies column headings
+Strings are quoted with the ' " ' identifier </description>
+		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/LOINC_2014AB.zip</URL>
+		<file_name>dropins/LOINC_2014AB.zip</file_name>
+		<table_name>LOINC_2014AB</table_name>
+		<version>2014AB</version>
+		<source>NCBO</source>
+		<file_type>zip</file_type>
+		<file_creation_date>2015-04-16</file_creation_date>
 		<contact>Lori Phillips (lcphillips@partners.org)</contact>
 	</ontology>
 </ns7:ontology_catalog>
